@@ -2,6 +2,7 @@
   "dependencies": {
     "express": "^4.21.0",
     "express-session": "^1.18.0",
-    "mysql2": "^3.11.3"
+    "mysql2": "^3.11.3",
+    "php": "^1.1.0"
   }
 }
